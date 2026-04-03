@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="320" src="images/render machine learning GIF by xponentialdesign.gif"/>
 
 
-Hi, I'm **Souvik Basu Roy**, a **1st year BCA student** at **IEM, Salt Lake Campus**.
+Hi, I'm **Souvik Basu Roy**, a **1st year BCA student** at **Institute of Engineering & Management (IEM) Kolkata**.
 
 I'm currently building my foundation in programming and exploring the world of software development through learning, practice, and projects.
 
