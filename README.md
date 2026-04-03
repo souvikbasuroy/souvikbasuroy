@@ -9,7 +9,7 @@
 
 
 ## 👨‍💻 About Me
-<img align="right" alt="Coding" width="320" src="images/render machine learning GIF by xponentialdesign.gif"/>
+<img align="right" alt="Coding" width="320" src="images/Penguins Of Madagascar Hello GIF.gif"/>
 
 
 Hi, I'm **Souvik Basu Roy**, a **1st year BCA student** at **Institute of Engineering & Management (IEM) Kolkata**.
