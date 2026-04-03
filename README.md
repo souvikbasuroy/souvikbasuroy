@@ -9,7 +9,7 @@
 
 
 ## 👨‍💻 About Me
-<img align="right" alt="Coding" width="320" src="images/disney frozen GIF.gif"/>
+<img align="right" alt="Coding" width="320" src="images/render machine learning GIF by xponentialdesign.gif"/>
 
 
 Hi, I'm **Souvik Basu Roy**, a **1st year BCA student** at **IEM, Salt Lake Campus**.
@@ -23,8 +23,7 @@ I'm currently building my foundation in programming and exploring the world of s
 - **OOP**
 
 I believe in growing step by step — learning from every bug, every project, and every challenge along the way.
-### ✨ Why should someone look at my profile?
-> Because this is where I share my learning journey, coding practice, and growth as a student developer.
+
 <br clear="right"/>
 
 ---
