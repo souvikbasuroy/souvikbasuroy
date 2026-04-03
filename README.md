@@ -70,26 +70,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/souvikbasuroy">
-    <img src="https://github-readme-stats.vercel.app/api?username=souvikbasuroy&show_icons=true&count_private=true&hide_border=true&title_color=00C2FF&text_color=ffffff&icon_color=00C2FF&bg_color=0D1117" height="170" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/souvikbasuroy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikbasuroy&layout=compact&hide_border=true&title_color=00C2FF&text_color=ffffff&bg_color=0D1117" height="170" alt="Top Languages" />
-  </a>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=souvikbasuroy&theme=dark&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" alt="GitHub Streak" />
-</p>
-
----
 
 ## ✨ Fun Note
 
