@@ -8,31 +8,23 @@
 
 
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
-
 ## 👨‍💻 About Me
+<img align="right" alt="Coding" width="320" src="images/disney frozen GIF.gif"/>
 
-```yaml
-name: Souvik Basu Roy
-role: BCA Student & Aspiring Developer
-location: India 🇮🇳
-email: souvikbasuroy1@gmail.com
 
-currently_learning:
-  - C
-  - C++
-  - Python
-  - Data Structures & Algorithms
-  - Object-Oriented Programming
+Hi, I'm **Souvik Basu Roy**, a **1st year BCA student** at **IEM, Salt Lake Campus**.
 
-open_to:
-  - Beginner-friendly projects
-  - Academic collaborations
-  - Learning-based web development
+I'm currently building my foundation in programming and exploring the world of software development through learning, practice, and projects.
 
-mindset: "Always learning. Always building."
-```
+### 🌱 Currently Learning
+- **C & C++**
+- **Python**
+- **DSA**
+- **OOP**
 
+I believe in growing step by step — learning from every bug, every project, and every challenge along the way.
+### ✨ Why should someone look at my profile?
+> Because this is where I share my learning journey, coding practice, and growth as a student developer.
 <br clear="right"/>
 
 ---
@@ -70,8 +62,8 @@ mindset: "Always learning. Always building."
 
 <div align="center">
 
-> *Some days it's clean, elegant code...*  
-> *Some days it's just the hamster on fire 🐹🔥*
+> *Code pe darati....bugs chal aati 😵....*  
+> *Main toh ainvayi ainvayi lutt gaya 🐹🔥*
 
 </div>
 
