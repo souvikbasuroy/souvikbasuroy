@@ -59,34 +59,9 @@ I believe in growing step by step — learning from every bug, every project, an
   <img src="images/Hamester.jpeg" width="300" alt="Hamster Meme" />
 </div>
 
-<div align="center">
-
-> *Code pe darati....bugs chal aati 😵....*  
-> *Main toh ainvayi ainvayi lutt gaya 🐹🔥*
-
-</div>
-
----
-
-## 🚀 The Developer Loop
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    bool success = false;
-
-    while (!success) {
-        learn();      // absorb everything
-        build();      // turn ideas into reality
-        debug();      // embrace the chaos
-        repeat();     // never stop growing
-    }
-
-    return 0;  // someday... 😄
-}
-```
+<p align="center" style="color; font-size:50px; font-weight:bold;">
+  Not even started yet and I’m already tired thinking about it 😮‍💨💭
+</p>
 
 ---
 
