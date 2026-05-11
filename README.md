@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=souvikbasuroy&label=Profile+Views&color=00C2FF&style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/souvikbasuroy?label=Followers&style=for-the-badge&color=00C2FF&labelColor=0D1117" />
+ <!--<img src="https://img.shields.io/github/followers/souvikbasuroy?label=Followers&style=for-the-badge&color=00C2FF&labelColor=0D1117" />-->
   &nbsp;
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsouvikbasuroy&query=%24.public_repos&label=Public+Repos&style=for-the-badge&color=00C2FF&labelColor=0D1117" />
   &nbsp;
@@ -30,17 +30,16 @@
 
 <img align="right" alt="Coding" width="300" src="images/Penguins Of Madagascar Hello GIF.gif"/>
 
-Hi, I'm **Souvik Basu Roy**, a **1st year BCA student** at
-**Institute of Engineering & Management (IEM), Kolkata** 🎓
+Hi, I'm Souvik Basu Roy, a 2nd year BCA student at Institute of Engineering & Management (IEM), Kolkata 🎓
 
-I'm currently building my foundation in programming and exploring
-the world of software development through learning, practice, and projects.
+I'm passionate about software development, AI, and building creative digital experiences through code, design, and experimentation.
 
-**🌱 Currently Learning:**
-- **C & C++** — core programming foundations
-- **Python** — scripting & automation
-- **DSA** — problem solving & algorithms
-- **OOP** — design principles & patterns
+🌱 Currently Learning & Exploring:
+
+• Python — automation, backend & AI development  
+• AI & Machine Learning — intelligent systems and real-world applications  
+• DBMS — database design, SQL & data management  
+• DSA — problem solving & algorithmic thinking  
 
 > *"I believe in growing step by step — learning from every bug,*
 > *every project, and every challenge along the way."*
@@ -96,23 +95,27 @@ the world of software development through learning, practice, and projects.
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ GitHub Analytics ⚡
+<p align="left">
+  <img width="40%" src="https://github-readme-stats-fast.vercel.app/api?username=souvikbasuroy&show_icons=true&theme=transparent" />
+  
+  <img width="40%"  src="https://streak-stats.demolab.com/?user=souvikbasuroy&theme=transparent" />
+  
+  <img width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=souvikbasuroy&layout=compact&theme=transparent" />
+</p>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=souvikbasuroy&bg_color=00000000&color=ffffff&line=00C2FF&point=00C2FF&area=true" 
+/>
+  
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=souvikbasuroy&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souvikbasuroy&theme=tokyo-night&hide_border=true&area=true&area_color=00C2FF" />
-</div>
 
 ---
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=souvikbasuroy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
+</div>-->
 
 
 ## 😄 Current Coding Situation
