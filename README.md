@@ -28,7 +28,15 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="images/Penguins Of Madagascar Hello GIF.gif"/>
+<table align ="right">
+<tr>
+<td>
+
+<img align="right" alt="Coding" width="300" src="images/me.gif"/>
+
+</td>
+</tr>
+</table>
 
 Hi, I'm Souvik Basu Roy, a 2nd year BCA student at Institute of Engineering & Management (IEM), Kolkata 🎓
 
