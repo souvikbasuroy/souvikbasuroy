@@ -157,6 +157,10 @@ I'm passionate about software development, AI, and building creative digital exp
   <a href="https://www.instagram.com/souvikbasuroy_?igsh=MWd6d3FwNGFyeDlzYw==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  &nbsp;
+  <a href"https://www.geeksforgeeks.org/profile/souvikbamp4f">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </div>
 
 <br/>
