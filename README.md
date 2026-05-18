@@ -1,7 +1,7 @@
 <!-- LAST_UPDATED: 2025-01-01T00:00:00Z -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C2FF,100:0D1117&height=220&section=header&text=Souvik%20Basu%20Roy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20%7C%20Builder%20%7C%20Learner&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:8E2DE2&height=250&section=header&text=Souvik%20Basu%20Roy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=BCA%20Student%20%7C%20Builder%20%7C%20Learner&descAlignY=58&descSize=20&animation=scaleIn" width="100%" />
 </div>
 
 <div align="center">
@@ -28,15 +28,11 @@
 
 ## 👨‍💻 About Me
 
-<table align ="right">
-<tr>
-<td>
 
-<img align="right" alt="Coding" width="300" src="images/me.gif"/>
 
-</td>
-</tr>
-</table>
+<img align="right" alt="Coding" width="300" src="images/sticker.png"/>
+
+
 
 Hi, I'm Souvik Basu Roy, a 2nd year BCA student at Institute of Engineering & Management (IEM), Kolkata 🎓
 
@@ -168,7 +164,7 @@ I'm passionate about software development, AI, and building creative digital exp
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C2FF,100:0D1117&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:8E2DE2&height=120&section=footer" width="100%" />
 </div>
 
 <div align="center">
