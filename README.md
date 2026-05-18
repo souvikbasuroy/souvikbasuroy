@@ -125,7 +125,7 @@ I'm passionate about software development, AI, and building creative digital exp
 ## 😄 Current Coding Situation
 
 <div align="center">
-  <img src="images/Hamester.jpeg" width="300" alt="Hamster Meme" />
+  <img src="images/me1.png" width="300" alt="Cool Mode" />
   <p><b>Not even started yet and I'm already tired thinking about it 😮‍💨💭</b></p>
 </div>
 
