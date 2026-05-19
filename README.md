@@ -161,6 +161,10 @@ I'm passionate about software development, AI, and building creative digital exp
   <a href"https://www.geeksforgeeks.org/profile/souvikbamp4f">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://huggingface.co/Souvikbasur">
+     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black"/>
+  </a>
 </div>
 
 <br/>
