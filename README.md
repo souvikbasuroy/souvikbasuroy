@@ -15,7 +15,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="180" src="images/sticker.png"/>
+<img align="right" alt="Coding" width="150" src="images/sticker.png"/>
 
 I'm a 2nd year BCA student at **Institute of Engineering & Management (IEM), Kolkata**, passionate about software development, AI, and building creative digital experiences through code, design, and experimentation. Currently learning **DSA** and growing step by step through every project.
 
